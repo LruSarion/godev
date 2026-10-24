@@ -1,0 +1,11 @@
+/godev
+/godev.exe
+*.test
+*.test.exe
+*.out
+/coverage/
+/dist/
+/.local/
+.env
+.env.*
+!.env.example
